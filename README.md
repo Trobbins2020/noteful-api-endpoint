@@ -2,7 +2,7 @@
 
 This is a boilerplate project used for starting new projects!
 
-## How do set up?
+## Set up
 
 Complete the following steps to start a new project (NEW-PROJECT-NAME):
 
@@ -19,8 +19,8 @@ Start the application `npm start`
 
 Start nodemon for the application `npm run dev`
 
-Run the tests in watch mode `npm test`
+Run the tests `npm test`
 
 ## Deploying
 
-When your new project is ready for deployment, add a new heroku application with `heroku create`. This will make a new git remote called "heroku" and you can then `npm run deploy` which will push to this remote's master branch.
+When your new project is ready for deployment, add a new Heroku application with `heroku create`. This will make a new git remote called "heroku" and you can then `npm run deploy` which will push to this remote's master branch.
